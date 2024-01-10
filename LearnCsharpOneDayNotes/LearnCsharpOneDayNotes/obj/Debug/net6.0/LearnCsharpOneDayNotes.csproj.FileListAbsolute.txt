@@ -1,0 +1,15 @@
+C:\Users\rifki\Desktop\csharp_projects\LearnCsharpOneDayNotes\LearnCsharpOneDayNotes\bin\Debug\net6.0\LearnCsharpOneDayNotes.exe
+C:\Users\rifki\Desktop\csharp_projects\LearnCsharpOneDayNotes\LearnCsharpOneDayNotes\bin\Debug\net6.0\LearnCsharpOneDayNotes.deps.json
+C:\Users\rifki\Desktop\csharp_projects\LearnCsharpOneDayNotes\LearnCsharpOneDayNotes\bin\Debug\net6.0\LearnCsharpOneDayNotes.runtimeconfig.json
+C:\Users\rifki\Desktop\csharp_projects\LearnCsharpOneDayNotes\LearnCsharpOneDayNotes\bin\Debug\net6.0\LearnCsharpOneDayNotes.dll
+C:\Users\rifki\Desktop\csharp_projects\LearnCsharpOneDayNotes\LearnCsharpOneDayNotes\bin\Debug\net6.0\LearnCsharpOneDayNotes.pdb
+C:\Users\rifki\Desktop\csharp_projects\LearnCsharpOneDayNotes\LearnCsharpOneDayNotes\obj\Debug\net6.0\LearnCsharpOneDayNotes.csproj.AssemblyReference.cache
+C:\Users\rifki\Desktop\csharp_projects\LearnCsharpOneDayNotes\LearnCsharpOneDayNotes\obj\Debug\net6.0\LearnCsharpOneDayNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rifki\Desktop\csharp_projects\LearnCsharpOneDayNotes\LearnCsharpOneDayNotes\obj\Debug\net6.0\LearnCsharpOneDayNotes.AssemblyInfoInputs.cache
+C:\Users\rifki\Desktop\csharp_projects\LearnCsharpOneDayNotes\LearnCsharpOneDayNotes\obj\Debug\net6.0\LearnCsharpOneDayNotes.AssemblyInfo.cs
+C:\Users\rifki\Desktop\csharp_projects\LearnCsharpOneDayNotes\LearnCsharpOneDayNotes\obj\Debug\net6.0\LearnCsharpOneDayNotes.csproj.CoreCompileInputs.cache
+C:\Users\rifki\Desktop\csharp_projects\LearnCsharpOneDayNotes\LearnCsharpOneDayNotes\obj\Debug\net6.0\LearnCsharpOneDayNotes.dll
+C:\Users\rifki\Desktop\csharp_projects\LearnCsharpOneDayNotes\LearnCsharpOneDayNotes\obj\Debug\net6.0\refint\LearnCsharpOneDayNotes.dll
+C:\Users\rifki\Desktop\csharp_projects\LearnCsharpOneDayNotes\LearnCsharpOneDayNotes\obj\Debug\net6.0\LearnCsharpOneDayNotes.pdb
+C:\Users\rifki\Desktop\csharp_projects\LearnCsharpOneDayNotes\LearnCsharpOneDayNotes\obj\Debug\net6.0\LearnCsharpOneDayNotes.genruntimeconfig.cache
+C:\Users\rifki\Desktop\csharp_projects\LearnCsharpOneDayNotes\LearnCsharpOneDayNotes\obj\Debug\net6.0\ref\LearnCsharpOneDayNotes.dll

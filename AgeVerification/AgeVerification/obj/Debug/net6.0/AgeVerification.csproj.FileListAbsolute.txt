@@ -1,0 +1,15 @@
+C:\Users\rifki\Desktop\csharp_projects\AgeVerification\AgeVerification\bin\Debug\net6.0\AgeVerification.exe
+C:\Users\rifki\Desktop\csharp_projects\AgeVerification\AgeVerification\bin\Debug\net6.0\AgeVerification.deps.json
+C:\Users\rifki\Desktop\csharp_projects\AgeVerification\AgeVerification\bin\Debug\net6.0\AgeVerification.runtimeconfig.json
+C:\Users\rifki\Desktop\csharp_projects\AgeVerification\AgeVerification\bin\Debug\net6.0\AgeVerification.dll
+C:\Users\rifki\Desktop\csharp_projects\AgeVerification\AgeVerification\bin\Debug\net6.0\AgeVerification.pdb
+C:\Users\rifki\Desktop\csharp_projects\AgeVerification\AgeVerification\obj\Debug\net6.0\AgeVerification.csproj.AssemblyReference.cache
+C:\Users\rifki\Desktop\csharp_projects\AgeVerification\AgeVerification\obj\Debug\net6.0\AgeVerification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rifki\Desktop\csharp_projects\AgeVerification\AgeVerification\obj\Debug\net6.0\AgeVerification.AssemblyInfoInputs.cache
+C:\Users\rifki\Desktop\csharp_projects\AgeVerification\AgeVerification\obj\Debug\net6.0\AgeVerification.AssemblyInfo.cs
+C:\Users\rifki\Desktop\csharp_projects\AgeVerification\AgeVerification\obj\Debug\net6.0\AgeVerification.csproj.CoreCompileInputs.cache
+C:\Users\rifki\Desktop\csharp_projects\AgeVerification\AgeVerification\obj\Debug\net6.0\AgeVerification.dll
+C:\Users\rifki\Desktop\csharp_projects\AgeVerification\AgeVerification\obj\Debug\net6.0\refint\AgeVerification.dll
+C:\Users\rifki\Desktop\csharp_projects\AgeVerification\AgeVerification\obj\Debug\net6.0\AgeVerification.pdb
+C:\Users\rifki\Desktop\csharp_projects\AgeVerification\AgeVerification\obj\Debug\net6.0\AgeVerification.genruntimeconfig.cache
+C:\Users\rifki\Desktop\csharp_projects\AgeVerification\AgeVerification\obj\Debug\net6.0\ref\AgeVerification.dll
