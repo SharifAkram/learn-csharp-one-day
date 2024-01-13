@@ -19,7 +19,7 @@ Welcome to the "Learn C# in One Day and Learn It Well" GitHub repository! This r
   - Control Flow
   - FIle Handling
   - LINQ (Language Integrated Query)
-  - Creation of a simple Payroll Software
+  - Creation of a simple payroll software
 
 - Educational content suitable for those new to C# and .NET.
 
