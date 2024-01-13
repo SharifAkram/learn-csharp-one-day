@@ -1,14 +1,34 @@
-# Simple C# and .NET Programs
+# Learn C# in One Day and Learn It Well: C# for Beginners with Hands-On Project
 
-This repository contains a collection of simple programs written in C# utilizing the .NET framework. The goal of this project is to provide beginner-friendly examples for learning C# programming.
+Welcome to the "Learn C# in One Day and Learn It Well" GitHub repository! This repository contains a collection of simple programs written in C# utilizing the .NET framework. The goal of this project is to provide beginner-friendly examples for learning C# programming.
+
+## Overview
+
+- **Author:** Jamie Chan
+- **Book:** Learn C# in One Day and Learn It Well: C# for Beginners with Hands-On Project
 
 ## Key Features
 
-- Basic programs covering topics such as variables, loops, arrays, and more.
+## Key Features
+
+- Basic programs covering fundamental topics such as:
+  - Variables
+  - Loops
+  - Arrays
+  - Object-Oriented Programming (OOP)
+  - Control Flow
+  - FIle Handling
+  - LINQ (Language Integrated Query)
+  - Creation of a simple Payroll Software
+
+- Educational content suitable for those new to C# and .NET.
+
 - Educational content suitable for those new to C# and .NET.
 
 ## Getting Started
 
-1. Clone the repository.
-2. Open the desired project in your preferred C# IDE.
-3. Run the program and explore the code to understand basic C# concepts.
+To get started with this repository, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/learn-csharp-in-one-day.git
