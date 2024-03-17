@@ -1,0 +1,15 @@
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\SpecificErrors\SpecificErrors\bin\Debug\net8.0\SpecificErrors.exe
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\SpecificErrors\SpecificErrors\bin\Debug\net8.0\SpecificErrors.deps.json
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\SpecificErrors\SpecificErrors\bin\Debug\net8.0\SpecificErrors.runtimeconfig.json
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\SpecificErrors\SpecificErrors\bin\Debug\net8.0\SpecificErrors.dll
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\SpecificErrors\SpecificErrors\bin\Debug\net8.0\SpecificErrors.pdb
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\SpecificErrors\SpecificErrors\obj\Debug\net8.0\SpecificErrors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\SpecificErrors\SpecificErrors\obj\Debug\net8.0\SpecificErrors.AssemblyInfoInputs.cache
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\SpecificErrors\SpecificErrors\obj\Debug\net8.0\SpecificErrors.AssemblyInfo.cs
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\SpecificErrors\SpecificErrors\obj\Debug\net8.0\SpecificErrors.csproj.CoreCompileInputs.cache
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\SpecificErrors\SpecificErrors\obj\Debug\net8.0\SpecificErrors.sourcelink.json
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\SpecificErrors\SpecificErrors\obj\Debug\net8.0\SpecificErrors.dll
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\SpecificErrors\SpecificErrors\obj\Debug\net8.0\refint\SpecificErrors.dll
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\SpecificErrors\SpecificErrors\obj\Debug\net8.0\SpecificErrors.pdb
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\SpecificErrors\SpecificErrors\obj\Debug\net8.0\SpecificErrors.genruntimeconfig.cache
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\SpecificErrors\SpecificErrors\obj\Debug\net8.0\ref\SpecificErrors.dll

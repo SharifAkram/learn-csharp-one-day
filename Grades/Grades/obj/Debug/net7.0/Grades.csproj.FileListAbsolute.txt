@@ -3,7 +3,6 @@ C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\Grades\Grades\bin\Debug\net
 C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\Grades\Grades\bin\Debug\net7.0\Grades.runtimeconfig.json
 C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\Grades\Grades\bin\Debug\net7.0\Grades.dll
 C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\Grades\Grades\bin\Debug\net7.0\Grades.pdb
-C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\Grades\Grades\obj\Debug\net7.0\Grades.csproj.AssemblyReference.cache
 C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\Grades\Grades\obj\Debug\net7.0\Grades.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\Grades\Grades\obj\Debug\net7.0\Grades.AssemblyInfoInputs.cache
 C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\Grades\Grades\obj\Debug\net7.0\Grades.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\Grades\Grades\obj\Debug\net
 C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\Grades\Grades\obj\Debug\net7.0\Grades.pdb
 C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\Grades\Grades\obj\Debug\net7.0\Grades.genruntimeconfig.cache
 C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\Grades\Grades\obj\Debug\net7.0\ref\Grades.dll
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\Grades\Grades\obj\Debug\net7.0\Grades.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\DivisionCalculator\DivisionCalculator\bin\Debug\net8.0\DivisionCalculator.exe
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\DivisionCalculator\DivisionCalculator\bin\Debug\net8.0\DivisionCalculator.deps.json
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\DivisionCalculator\DivisionCalculator\bin\Debug\net8.0\DivisionCalculator.runtimeconfig.json
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\DivisionCalculator\DivisionCalculator\bin\Debug\net8.0\DivisionCalculator.dll
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\DivisionCalculator\DivisionCalculator\bin\Debug\net8.0\DivisionCalculator.pdb
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\DivisionCalculator\DivisionCalculator\obj\Debug\net8.0\DivisionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\DivisionCalculator\DivisionCalculator\obj\Debug\net8.0\DivisionCalculator.AssemblyInfoInputs.cache
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\DivisionCalculator\DivisionCalculator\obj\Debug\net8.0\DivisionCalculator.AssemblyInfo.cs
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\DivisionCalculator\DivisionCalculator\obj\Debug\net8.0\DivisionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\DivisionCalculator\DivisionCalculator\obj\Debug\net8.0\DivisionCalculator.sourcelink.json
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\DivisionCalculator\DivisionCalculator\obj\Debug\net8.0\DivisionCalculator.dll
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\DivisionCalculator\DivisionCalculator\obj\Debug\net8.0\refint\DivisionCalculator.dll
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\DivisionCalculator\DivisionCalculator\obj\Debug\net8.0\DivisionCalculator.pdb
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\DivisionCalculator\DivisionCalculator\obj\Debug\net8.0\DivisionCalculator.genruntimeconfig.cache
+C:\Users\rifki\Desktop\dotnet_work\learnCsharponeday\DivisionCalculator\DivisionCalculator\obj\Debug\net8.0\ref\DivisionCalculator.dll

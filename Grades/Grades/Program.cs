@@ -3,7 +3,7 @@
 while (true)
 {
     Console.Write("Enter your grade (type 'exit' to quit): ");
-    string userGrade = Console.ReadLine();
+    string? userGrade = Console.ReadLine();
 
     if (userGrade.ToLower() == "exit")
     {
